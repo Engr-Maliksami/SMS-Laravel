@@ -1,0 +1,11 @@
+Changes log Jan 2017
+
+1) Menorah OES upgrated to laravel 5.5
+2) Full screen for Exam page
+3) Right click and copy questions disabled
+4) Front end pages added
+	1) Terms and conditions
+	2) Privacy and Polocy
+5) Social logins are upgraded
+6) Other small issues fixed
+7) Documentation updated

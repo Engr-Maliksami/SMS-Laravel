@@ -1,0 +1,13 @@
+.card-school p {
+    color: #e01ab5;
+}
+.card-block{width: 400px;height: 225px;border: 1px dashed lightgray;border-radius: 10px;margin: 10px 20px;
+float: left;}
+.card-top
+{
+background-color: #f1f1f1 !important;
+    background-size: 100% 100% !important;
+    -webkit-print-color-adjust: exact !important; 
+    color-adjust: exact !important; 
+
+}
